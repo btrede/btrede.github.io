@@ -12,6 +12,9 @@
 }, {
   label: "Week04 Notes",
   url: "Week04/index.html"
+}, {
+  label: "Week05 Notes",
+  url: "Week05/index.html"
 }
   ];
   
